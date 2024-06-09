@@ -1,0 +1,11 @@
+#text_box {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  #welcome_text {
+    padding: 60px 50px;
+    width: 70%;
+    background-color: $color2;
+  }
+}

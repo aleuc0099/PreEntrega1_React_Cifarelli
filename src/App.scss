@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+/* Colors */
+$color1: #915fe8;
+$color2: #e85fe1;
+$color3: #bf5fe8;
+$color4: #665fe8;
+$color5: #e85f8f;
+$color6: #d194eb;
+$color7: rgb(180, 153, 199);
+$color8: rgb(241, 229, 250);
+
+@import "_nav";
+@import "_item_list_container";
